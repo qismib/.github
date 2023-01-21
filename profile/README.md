@@ -6,6 +6,6 @@
 </div>
 
 ## Coordinator
-** Prof. Andrea Giachero **  
-* University of Milano-Bicocca, Milano, Italy *  
-* INFN Unit of Milano-Bicocca, Milano, Italy *  
+**Prof. Andrea Giachero**  
+*University of Milano-Bicocca, Milano, Italy*  
+*INFN Unit of Milano-Bicocca, Milano, Italy*  
