@@ -1,4 +1,4 @@
-<img src="./qismib.png" width="100">
+<img src="./qismib.png" width="150">
 
 # QISMIB: Quatum Information Science Milano-Bicocca
 
