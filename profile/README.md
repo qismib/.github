@@ -10,11 +10,11 @@
 *University of Milano-Bicocca, Milano, Italy*  
 *INFN Unit of Milano-Bicocca, Milano, Italy* 
 
-**Roberto Moretti - Gradute Student**    
+**Roberto Moretti - Graduate Student**    
 *University of Milano-Bicocca, Milano, Italy*  
 *INFN Unit of Milano-Bicocca, Milano, Italy*
 
-**Danilo Labranca - Gradute Student**  
+**Danilo Labranca - Graduate Student**  
 *University of Milano-Bicocca, Milano, Italy*    
 *INFN Unit of Milano-Bicocca, Milano, Italy* 
 
