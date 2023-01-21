@@ -1,3 +1,16 @@
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: 1px solid black;
+}
+blockquote {
+    border-left: solid blue;
+    padding-left: 10px;
+}
+</style>
+
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/74980247?s=400&u=a88078be8d5dd965e43c0e9b4acaddccae1ad431&v=4" width="200">
 
@@ -26,18 +39,7 @@ The primary mission of the Quantum Information Science Milano-Bicocca (QISMIB) i
 *INFN Unit of Milano-Bicocca, Milano, Italy* 
  
  
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
-</style>
+
 
 | Column One    | Column Two    |                                                                                                                                                   
 | ---           | ---           |                                                                                                                                                   
