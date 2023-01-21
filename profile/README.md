@@ -15,9 +15,9 @@
 *INFN Unit of Milano-Bicocca, Milano, Italy*
 
 **Danilo Labranca - Gradute Student**
-*University of Milano-Bicocca, Milano, Italy*  
+*University of Milano-Bicocca, Milano, Italy*    
 *INFN Unit of Milano-Bicocca, Milano, Italy* 
 
 **Rodolfo Carobene - Undergraduate Student**
-*University of Milano-Bicocca, Milano, Italy*  
+*University of Milano-Bicocca, Milano, Italy*    
 *INFN Unit of Milano-Bicocca, Milano, Italy* 
