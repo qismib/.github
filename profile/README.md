@@ -5,7 +5,7 @@
 
 </div>
 
-## Coordinator
-**Prof. Andrea Giachero**  
+### Members
+**Prof. Andrea Giachero - Coordinator**  
 *University of Milano-Bicocca, Milano, Italy*  
 *INFN Unit of Milano-Bicocca, Milano, Italy*  
