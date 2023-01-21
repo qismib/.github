@@ -25,14 +25,4 @@ The primary mission of the Quantum Information Science Milano-Bicocca (QISMIB) i
 *University of Milano-Bicocca, Milano, Italy*    
 *INFN Unit of Milano-Bicocca, Milano, Italy* 
  
- 
-<table border="2">
- <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
- </tr>
- <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
- </tr>
-</table>
+
