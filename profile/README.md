@@ -1,3 +1,3 @@
-![logo](../images/qismib.png)
-# ** QISMIB: Quatum Information Science Milano-Bicocca **
+![logo](./profile/qismib.png)
+# QISMIB: Quatum Information Science Milano-Bicocca
 
