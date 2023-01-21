@@ -5,7 +5,7 @@
 
 </div>
 
-The primary mission of the Quantum Information Science Milano-Bicocca (QISMIB) initiative at the University of Milano-Bicocca is to introduce undergraduate and master students to the main foundational concepts of quantum computing and quantum technologies.  
+### The primary mission of the Quantum Information Science Milano-Bicocca (QISMIB) initiative at the University of Milano-Bicocca is to introduce undergraduate and master students to the main foundational concepts of quantum computing and quantum technologies.  
 
 
 ### Members
