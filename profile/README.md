@@ -10,9 +10,9 @@ The primary mission of the Quantum Information Science Milano-Bicocca (QISMIB) i
 
 ## Quantum Simulation
 
-## Quantum machine learning
+## Quantum Machine Learning
 
-## Quantum key distribution
+## Quantum Key Distribution
 
 ## Disign and Simulation of qubits
 
