@@ -13,15 +13,16 @@ The primary mission of the Quantum Information Science Milano-Bicocca (QISMIB) i
 *University of Milano-Bicocca, Milano, Italy*  
 *INFN Unit of Milano-Bicocca, Milano, Italy* 
 
-**Roberto Moretti - Graduate Student**    
+**Roberto Moretti - Ph.D. Student**    
 *University of Milano-Bicocca, Milano, Italy*  
 *INFN Unit of Milano-Bicocca, Milano, Italy*
 
-**Danilo Labranca - Graduate Student**  
+**Danilo Labranca - Ph.D. Student**  
 *University of Milano-Bicocca, Milano, Italy*    
 *INFN Unit of Milano-Bicocca, Milano, Italy* 
 
-**Rodolfo Carobene - Undergraduate Student**   
+**Rodolfo Carobene - M.Sc. Student**   
 *University of Milano-Bicocca, Milano, Italy*    
 *INFN Unit of Milano-Bicocca, Milano, Italy* 
  
+
