@@ -21,18 +21,23 @@ The primary mission of the Quantum Information Science Milano-Bicocca (QISMIB) i
 ### Members
 **Prof. Andrea Giachero - Coordinator**  
 *University of Milano-Bicocca, Milano, Italy*  
-*INFN Unit of Milano-Bicocca, Milano, Italy* 
+*INFN Unit of Milano-Bicocca, Milano, Italy*  
+[andrea.giachero at mib.infn.it](mailto:andrea.giachero@mib.infn.it)
+
+**Danilo Labranca - Ph.D. Student**  
+*University of Milano-Bicocca, Milano, Italy*    
+*INFN Unit of Milano-Bicocca, Milano, Italy*
+[danilo.labranca at mib.infn.it](mailto:danilo.labranca@mib.infn.it)
 
 **Roberto Moretti - Ph.D. Student**    
 *University of Milano-Bicocca, Milano, Italy*  
 *INFN Unit of Milano-Bicocca, Milano, Italy*
-
-**Danilo Labranca - Ph.D. Student**  
-*University of Milano-Bicocca, Milano, Italy*    
-*INFN Unit of Milano-Bicocca, Milano, Italy* 
+[roberto.moretti at mib.infn.it](mailto:roberto.moretti@mib.infn.it)
 
 **Rodolfo Carobene - M.Sc. Student**   
 *University of Milano-Bicocca, Milano, Italy*    
-*INFN Unit of Milano-Bicocca, Milano, Italy* 
+*INFN Unit of Milano-Bicocca, Milano, Italy*
+[rodolfo.carobene at mib.infn.it](mailto:rodolfo.carobene@mib.infn.it)
+
  
 
