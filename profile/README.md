@@ -15,7 +15,7 @@ The primary mission of the Quantum Information Science Milano-Bicocca (QISMIB) i
 ## Quantum Key Distribution
 
 ## Design and Simulation of qubits
-Your Text One of the main problems that the quantum research community is facing at the moment is "how do we actually build an error resistant, multi-purpose quantum computer?". One way to do that is using superconducting qubits. 
+One of the main problems that the quantum research community is facing at the moment is "how do we actually build an error resistant, multi-purpose quantum computer?". One way to do that is using superconducting qubits. 
 Our group is working on superconducting qubit design for multiple applications: quantum sensors, quantum computers and other devices. The main challenges will be to improve current designs and find new ones in order to build better qubits for all applications. 
 The qubit design process goes through different steps: ideation and parameter definition, design, electromagnetic simulation and quantum parameters extraction.
 The first phase can be faced by simulating quantum systems using libraries such as Qutip ([https://qutip.org/](https://qutip.org/)) and Scqubits([https://scqubits.readthedocs.io/en/latest/](https://scqubits.readthedocs.io/en/latest/)). These libraries offer a simple framework to simulate numerically qubit and other quantum systems. In this way we can define our goals for the final system to be designed. 
