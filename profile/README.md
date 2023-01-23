@@ -14,7 +14,7 @@ The primary mission of the Quantum Information Science Milano-Bicocca (QISMIB) i
 
 ## Quantum Key Distribution
 
-## Disign and Simulation of qubits
+## Design and Simulation of qubits
 
 
 
