@@ -43,5 +43,24 @@ Once our objectives are set, we design qubits using Qiskit-Metal (IBM, [https://
 *INFN Unit of Milano-Bicocca, Milano, Italy*  
 [rodolfo.carobene at mib.infn.it](mailto:rodolfo.carobene@mib.infn.it)
 
- 
+ <table>
+<thead>
+<tr><th>header 1</th><th>header 2</th></tr>
+</thead>
+<tbody>
+<tr>
+<td>cell 1</td>
+<td>cell 2</td>
+</tr>
+<tr>
+<td>cell 3</td>
+<td>
+
+- [ ] Task one
+- [ ] Task two
+
+</td>
+</tr>
+</tbody>
+</table>
 
