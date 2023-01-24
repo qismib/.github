@@ -17,7 +17,7 @@ QISMIB initiative is part of the Bicocca Quantum Technologies Centre (BiQuTe), m
 
 <br />
 
-## Quantum Simulation
+## Quantum Simulations
 
 ## Quantum Machine Learning
 
