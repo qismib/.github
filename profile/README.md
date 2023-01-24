@@ -62,7 +62,7 @@ Once our objectives are set, we design qubits using <a href="https://qiskit.org/
 [rodolfo.carobene at mib.infn.it](mailto:rodolfo.carobene@mib.infn.it)
 
 ### External collaborators
-**Stefano Barison**
+**Stefano Barison**  
 École polytechnique fédérale de Lausanne
 
                                                                                                                                               
