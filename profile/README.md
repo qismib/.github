@@ -65,9 +65,9 @@ Once our objectives are set, we design qubits using <a href="https://qiskit.org/
 [rodolfo.carobene at mib.infn.it](mailto:rodolfo.carobene@mib.infn.it)
 
 ### External collaborators
-**Leonardo Banchi**
-*University of Florence*
-*INFN Unit of Florence*
+**Leonardo Banchi**  
+*University of Florence*  
+*INFN Unit of Florence*  
 
 **Stefano Barison**  
 *École polytechnique fédérale de Lausanne*
