@@ -9,7 +9,7 @@
   
 If you are interested in quantum computing and quantum technologies and would like to carry on your thesis with our group please contact us at the email address: [andrea.giachero at mib.infn.it](mailto:andrea.giachero@mib.infn.it)  
   
-QISMIB initiative is part of the Bicocca Quantum Technologies Centre (BiQuTe), more information at [biqute.unimib.it](https://biqute.unimib.it/) 
+QISMIB initiative is part of the Bicocca Quantum Technologies Centre (BiQuTe), more information are available at [biqute.unimib.it](https://biqute.unimib.it/) 
 
 </p> 
 
