@@ -5,7 +5,9 @@
 
 </div>
 
-<p align="justify"> The primary mission of the Quantum Information Science Milano-Bicocca (QISMIB) initiative at the University of Milano-Bicocca is to introduce undergraduate and master students to the main foundational concepts of quantum computing and quantum technologies. </p> 
+<p align="justify"> The primary mission of the Quantum Information Science Milano-Bicocca (QISMIB) initiative at the University of Milano-Bicocca is to introduce undergraduate and master students to the main foundational concepts of quantum computing and quantum technologies, as well as to provide them with the necessary theoretical and experimental tools to pursue research in this field. Additionally, the initiative aims to foster collaboration between academic and industrial partners, and to promote the development of quantum technologies in the local and national context. Through the implementation of cutting-edge research projects, QISMIB aims to train a new generation of highly qualified professionals with a strong background in quantum information science, who will be able to contribute to the advancement of this field and to the development of new quantum technologies. 
+
+</p> 
 
 
 ## Quantum Simulation
