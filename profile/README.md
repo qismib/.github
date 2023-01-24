@@ -61,6 +61,16 @@ Once our objectives are set, we design qubits using <a href="https://qiskit.org/
 
 ### External collaborators
 **Stefano Barison**  
-École polytechnique fédérale de Lausanne
+*École polytechnique fédérale de Lausanne&
+
+**Stefano Carrazza**   
+*University of Milano, Milano, Italy*      
+*INFN Unit of Milano, Milano, Italy*
+*CERN Theory Group*  
+
+**Michele Grossi**  
+*CERN Quantum Technology Initiative*  
+*CERN IT innovation*  
+
 
                                                                                                                                               
