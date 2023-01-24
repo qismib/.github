@@ -9,6 +9,8 @@
   
 If you are interested in quantum computing and quantum technologies and would like to carry on your thesis with our group please contact us at the email address: [andrea.giachero at mib.infn.it](mailto:andrea.giachero@mib.infn.it)  
   
+The key tenets of the proposed thesis are centered around the cutting-edge fields of Quantum Simulation, Quantum Machine Learning, Quantum Key Distribution, and the Design and Simulation of qubits. These areas of study represent the vanguard of quantum technology research, offering a wealth of opportunities for exploration and innovation. From the use of quantum systems to simulate complex physical phenomena, to the application of machine learning algorithms to optimize quantum algorithms, to the development of secure communication protocols using quantum key distribution, and the design and simulation of qubits that are crucial building blocks of quantum computing, the proposed thesis delves into the very forefront of this rapidly evolving field. More details are illustrated in the below sections.
+  
 QISMIB initiative is part of the Bicocca Quantum Technologies Centre (BiQuTe), more information are available at [biqute.unimib.it](https://biqute.unimib.it/) 
 
 </p> 
