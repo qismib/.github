@@ -32,8 +32,9 @@ The qubit design process goes through different steps: ideation and parameter de
 The first phase can be faced by simulating quantum systems using libraries such as <a href="https://qutip.org/">Qutip</a> and <a href="https://scqubits.readthedocs.io/en/latest/">Scqubits</a> . These libraries offer a simple framework to simulate numerically qubit and other quantum systems. In this way we can define our goals for the final system to be designed. 
 Once our objectives are set, we design qubits using <a href="https://qiskit.org/metal/">Qiskit-Metal</a> (IBM) and the Qubit Simulation Module (QSM, developed at NIST). To evaluate the qubit parameters from the design we use different simulations: the Energy Participation Ratio (<a href="https://www.nature.com/articles/s41534-021-00461-8">EPR</a>) and the Lumped Oscillator Model (<a href="https://arxiv.org/abs/2103.10344">LOM</a>). Both these analyses exploits ANSYS (HFSS and Q3D) to perform electromagnetic simulations. The results of the EM software are then used to quantize the system and extract all the interesting parameters. The design will be then modified until these parameters match the goals we set. With this workflow we tune each device to better suit its specific application. </p>
 
+<br />
 
-### Members
+## Members
 **Prof. Andrea Giachero - Coordinator**  
 *University of Milano-Bicocca, Milano, Italy*  
 *INFN Unit of Milano-Bicocca, Milano, Italy*  
