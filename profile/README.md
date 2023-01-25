@@ -78,7 +78,9 @@ Once our objectives are set, we design qubits using <a href="https://qiskit.org/
 **Stefano Carrazza**   
 *University of Milano, Milano, Italy*      
 *INFN Unit of Milano, Milano, Italy*
-*CERN Theory Group*  
+*CERN Theory Group*
+[stefano.carrazza at unimi.it](mailto:stefano.carrazza@unimi.it)
+
 
 **Michele Grossi**  
 *CERN Quantum Technology Initiative*  
