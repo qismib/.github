@@ -70,10 +70,12 @@ Once our objectives are set, we design qubits using <a href="https://qiskit.org/
 ### External collaborators
 **Leonardo Banchi**  
 *University of Florence*  
-*INFN Unit of Florence*  
+*INFN Unit of Florence*     
+[leonardo.banchi at unifi.it](mailto:leonardo.banchi@unifi.it)
 
 **Stefano Barison**  
-*École polytechnique fédérale de Lausanne*
+*École polytechnique fédérale de Lausanne*  
+[stefano.barison at epfl.ch](mailto:stefano.barison@epfl.ch)
 
 **Stefano Carrazza**   
 *University of Milano, Milano, Italy*      
