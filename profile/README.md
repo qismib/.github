@@ -87,6 +87,8 @@ Once our objectives are set, we design qubits using <a href="https://qiskit.org/
 **Michele Grossi**  
 *CERN Quantum Technology Initiative*  
 *CERN IT innovation*  
+[michele.grossi at cern.ch](mailto:michele.grossi@cern.ch)
+
 
 
                                                                                                                                               
