@@ -55,7 +55,7 @@ Once our objectives are set, we design qubits using <a href="https://qiskit.org/
 **Prof. Angelo Nucciotti - Director of the BiQuTe centre**  
 *University of Milano-Bicocca, Milano, Italy*  
 *INFN Unit of Milano-Bicocca, Milano, Italy*  
-[andrea.giachero at mib.infn.it](mailto:andrea.giachero@mib.infn.it)
+[angelo.nucciotti at mib.infn.it](mailto:angelo.nucciotti@mib.infn.it)
 
 **Danilo Labranca - Ph.D. Student**  
 *University of Milano-Bicocca, Milano, Italy*    
