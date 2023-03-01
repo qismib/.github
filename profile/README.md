@@ -13,7 +13,7 @@
 
 <p align="justify"> The proposed thesis project will employ a variety of cutting-edge tools and technologies to develop and analyze the research. The primary programming language used will be Python, in conjunction with open-source frameworks such as Qitip, Qiskit, Pennylane, Qiskit-metal and others. These frameworks provide a comprehensive set of tools for the design, simulation, and execution of quantum algorithms, making them ideal for the proposed research. Additionally, the thesis will also make use of Julia, a modern programming language that, along with packages like Yao, offers a highly efficient and optimized quantum computing library for performing detailed simulations and analyses for the proposed research activities.</p>   
 
-More details on the available activities are illustrated in the below sections. Past projects are list at [this link](https://github.com/orgs/qismib/repositories)   
+More details on the available activities are illustrated in the below sections. Past and current projects are list at [this link](https://github.com/orgs/qismib/repositories)   
 
 QISMIB initiative is part of the Bicocca Quantum Technologies Centre (BiQuTe), more information are available at [biqute.unimib.it](https://biqute.unimib.it/) 
 
