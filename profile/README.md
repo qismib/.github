@@ -60,7 +60,7 @@ Once our objectives are set, we design qubits using <a href="https://qiskit.org/
 **Prof. Pietro Govoni - Associate Professor**    
 *University of Milano-Bicocca, Milano, Italy*    
 *INFN Unit of Milano-Bicocca, Milano, Italy*    
-[angelo.nucciotti at mib.infn.it](mailto:angelo.nucciotti@mib.infn.it)  
+[pietro.govoni at unimib.it](mailto:pietro.govoni@unimib.it)  
 
 
 **Danilo Labranca - Ph.D. Student**  
