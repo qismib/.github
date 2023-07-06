@@ -38,19 +38,18 @@ QISMIB initiative is part of the Bicocca Quantum Technologies Centre (BiQuTe), m
 </p>
 
 
-
-## Pubblications
-
-* "Sequence of penalties method to study excited states using VQE" R. Carobene, S. Barison, A. Giachero  <a href="https://doi.org/10.1088/2058-9565/acd1a9">Quantum Sci. Technol. 8, 035014 (2023)</a>
-</p>
-
-
 ## Design and Simulation of qubits
 <p align="justify"> One of the main problems that the quantum research community is facing at the moment is "how do we actually build an error resistant, multi-purpose quantum computer?". One way to do that is using superconducting qubits. 
 Our group is working on superconducting qubit design for multiple applications: quantum sensors, quantum computers and other devices. The main challenges will be to improve current designs and find new ones in order to build better qubits for all applications. 
 The qubit design process goes through different steps: ideation and parameter definition, design, electromagnetic simulation and quantum parameters extraction.
 The first phase can be faced by simulating quantum systems using libraries such as <a href="https://qutip.org/">Qutip</a> and <a href="https://scqubits.readthedocs.io/en/latest/">Scqubits</a> . These libraries offer a simple framework to simulate numerically qubit and other quantum systems. In this way we can define our goals for the final system to be designed. 
 Once our objectives are set, we design qubits using <a href="https://qiskit.org/metal/">Qiskit-Metal</a> (IBM) and the Qubit Simulation Module (QSM, developed at NIST). To evaluate the qubit parameters from the design we use different simulations: the Energy Participation Ratio (<a href="https://www.nature.com/articles/s41534-021-00461-8">EPR</a>) and the Lumped Oscillator Model (<a href="https://arxiv.org/abs/2103.10344">LOM</a>). Both these analyses exploits ANSYS (HFSS and Q3D) to perform electromagnetic simulations. The results of the EM software are then used to quantize the system and extract all the interesting parameters. The design will be then modified until these parameters match the goals we set. With this workflow we tune each device to better suit its specific application. </p>
+
+<br />
+
+## Pubblications
+
+* "**_Sequence of penalties method to study excited states using VQE_**",  R. Carobene, S. Barison, A. Giachero  <a href="https://doi.org/10.1088/2058-9565/acd1a9">	Quantum Sci. Technol. 8 (2023) 035014, </a>, <a href="https://arxiv.org/abs/2304.05262"> 2304.05262 [quant-ph  </a>
 
 <br />
 
