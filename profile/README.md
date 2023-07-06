@@ -37,6 +37,14 @@ QISMIB initiative is part of the Bicocca Quantum Technologies Centre (BiQuTe), m
 <p align="justify"> Quantum key distribution (QKD) is a method for secure communication that uses the principles of quantum mechanics to establish a secret key between two parties. This key can then be used to encrypt and decrypt messages, ensuring that only the intended recipients can read them. The BB84 and E91 protocols are well-established examples of QKD protocols that have been proposed and implemented, while the Continuous-variable (CV-QKD) and Measurement-Device-Independent (CV-MDI) protocols are relatively newer but promising candidates that offer immunity to side-channel attacks. The security and performance of these protocols can be evaluated by analyzing the different types of attacks that can be performed by an eavesdropper. To further enhance the evaluation, numerical simulations can be conducted, taking into account different scenarios and noise models. Additionally, exploring novel techniques for error correction and the use of novel quantum states can be considered as potential avenues for future research.
 </p>
 
+
+
+## Pubblications
+
+* "Sequence of penalties method to study excited states using VQE" R. Carobene, S. Barison, A. Giachero  <a href="https://doi.org/10.1088/2058-9565/acd1a9">Quantum Sci. Technol. 8, 035014 (2023)</a>
+</p>
+
+
 ## Design and Simulation of qubits
 <p align="justify"> One of the main problems that the quantum research community is facing at the moment is "how do we actually build an error resistant, multi-purpose quantum computer?". One way to do that is using superconducting qubits. 
 Our group is working on superconducting qubit design for multiple applications: quantum sensors, quantum computers and other devices. The main challenges will be to improve current designs and find new ones in order to build better qubits for all applications. 
