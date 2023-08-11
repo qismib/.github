@@ -57,7 +57,7 @@ Once our objectives are set, we design qubits using <a href="https://qiskit.org/
 <br />
 
 ## Members
-**Prof. Andrea Giachero - Assistan Professor - Coordinator**  
+**Prof. Andrea Giachero - Assistant Professor - Coordinator**  
 *University of Milano-Bicocca, Milano, Italy*  
 *INFN Unit of Milano-Bicocca, Milano, Italy*  
 [andrea.giachero at mib.infn.it](mailto:andrea.giachero@mib.infn.it)  
