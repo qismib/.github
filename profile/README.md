@@ -49,7 +49,7 @@ Once our objectives are set, we design qubits using <a href="https://qiskit.org/
 
 ## Pubblications
 
-* "**_Sequence of penalties method to study excited states using VQE_**",
+* "**_Sequence of penalties method to study excited states using VQE_**",  
   R. Carobene, S. Barison, A. Giachero  <a href="https://doi.org/10.1088/2058-9565/acd1a9">,	Quantum Sci. Technol. 8 (2023) 035014, </a>, <a href="https://arxiv.org/abs/2304.05262"> `2304.05262 [quant-ph]`  </a>
 
 * "**_Assessment of few-hits machine learning classification algorithms for low energy physics in liquid argon detectors_**",  M. Biassoni _et al._, <a href="https://arxiv.org/abs/2305.09744"> `2305.09744 [physics.ins-det]`  </a>
