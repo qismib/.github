@@ -16,9 +16,9 @@
 More details on the available activities are illustrated in the below sections. Past and current projects are list at [this link](https://github.com/orgs/qismib/repositories)   
 
 QISMIB initiative is supported by 
-* Bicocca Quantum Technologies Centre (BiQuTe) [biqute.unimib.it](https://biqute.unimib.it/)
-* National Quantum Science and Technology Institute [www.nqsti.it](https://www.nqsti.it)
-* National Research Centre for High Performance Computing, Big Data and Quantum Computing [www.supercomputing-icsc.it](https://www.supercomputing-icsc.it)
+* Bicocca Quantum Technologies Centre (BiQuTe): [biqute.unimib.it](https://biqute.unimib.it/)
+* National Quantum Science and Technology Institute (NQSTI) [www.nqsti.it](https://www.nqsti.it)
+* National Research Centre for High Performance Computing, Big Data and Quantum Computing (ISCS): [www.supercomputing-icsc.it](https://www.supercomputing-icsc.it)
 
 
 
