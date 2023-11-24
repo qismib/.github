@@ -62,7 +62,7 @@ Once our objectives are set, we design qubits using <a href="https://qiskit.org/
 <br />
 
 ## Members
-**Prof. Andrea Giachero - Assistant Professor - Coordinator**  
+**Prof. Andrea Giachero - Associate Professor - Coordinator**  
 *University of Milano-Bicocca, Milano, Italy*  
 *INFN Unit of Milano-Bicocca, Milano, Italy*  
 [andrea.giachero at mib.infn.it](mailto:andrea.giachero@mib.infn.it)  
@@ -88,7 +88,7 @@ Once our objectives are set, we design qubits using <a href="https://qiskit.org/
 *INFN Unit of Milano-Bicocca, Milano, Italy*  
 [roberto.moretti at mib.infn.it](mailto:roberto.moretti@mib.infn.it)
 
-**Rodolfo Carobene - M.Sc. Student**   
+**Rodolfo Carobene - Ph.D. Student**   
 *University of Milano-Bicocca, Milano, Italy*    
 *INFN Unit of Milano-Bicocca, Milano, Italy*  
 [rodolfo.carobene at mib.infn.it](mailto:rodolfo.carobene@mib.infn.it)
