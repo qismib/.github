@@ -93,6 +93,12 @@ Once our objectives are set, we design qubits using <a href="https://qiskit.org/
 *INFN Unit of Milano-Bicocca, Milano, Italy*  
 [rodolfo.carobene at mib.infn.it](mailto:rodolfo.carobene@mib.infn.it)
 
+**Pietro Campana - Ph.D. Student**   
+*University of Milano-Bicocca, Milano, Italy*    
+*INFN Unit of Milano-Bicocca, Milano, Italy*  
+[pietro.campana at mib.infn.it](mailto:pietro.campana@mib.infn.it)
+
+
 ### External collaborators
 **Leonardo Banchi**  
 *University of Florence*  
