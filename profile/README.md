@@ -53,8 +53,14 @@ Once our objectives are set, we design qubits using <a href="https://qiskit.org/
 ## Pubblications
 
 
+* "**_Local fermion-to-qudit mappings_**",  
+  R. Carobene, S. Barison, A. Giachero, and J. Nys, _in preparation_
+
 * "**_Enhanced feature encoding and classification on distributed quantum hardware_**",  
-  R. Moretti, A. Giachero, V. Radescu, M. Grossi, in preparation
+  R. Moretti, A. Giachero, V. Radescu, M. Grossi, _in preparation_
+
+* "**_Enhanced feature encoding and classification on distributed quantum hardware_**",  
+  R. Moretti, A. Giachero, V. Radescu, M. Grossi, _in preparation_
 
 * "**_Assessment of few-hits machine learning classification algorithms for low energy physics in liquid argon detectors_**",  
   M. Biassoni _et al._, <a href="https://doi.org/10.1140/epjp/s13360-024-05287-9"> Eur. Phys. J. Plus 139 (2024) 8, 723 </a>,   <a href="https://arxiv.org/abs/2305.09744"> `2305.09744 [physics.ins-det]`  </a>
