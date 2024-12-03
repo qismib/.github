@@ -30,6 +30,7 @@ QISMIB initiative is supported by
 </details>
 
 ---
+
 <details>
 <summary> <h2>Quantum Machine Learning</h3> </summary>
 
@@ -147,5 +148,8 @@ Once our objectives are set, we design qubits using <a href="https://qiskit.org/
 [michele.grossi at cern.ch](mailto:michele.grossi@cern.ch)
 
 </details>
+
+---
+
 
                                                                                                                                               
