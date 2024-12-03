@@ -51,8 +51,7 @@ Once our objectives are set, we design qubits using <a href="https://qiskit.org/
 <br />
 
 <details>
-
-<summary> <h2>This is heading 1</h3> </summary>
+<summary> <h2>Pubblications</h3> </summary>
 
 * "**_Local fermion-to-qudit mappings_**",  
   R. Carobene, S. Barison, A. Giachero, and J. Nys, _in preparation_
@@ -67,16 +66,12 @@ Once our objectives are set, we design qubits using <a href="https://qiskit.org/
   R. Carobene, S. Barison, A. Giachero,  <a href="https://doi.org/10.1088/2058-9565/acd1a9"> Quantum Sci. Technol. 8 (2023) 035014, </a>, <a href="https://arxiv.org/abs/2304.05262"> `2304.05262 [quant-ph]`  </a>
 </details>
 
-
-## Pubblications
-
-
-
-
-
 <br />
 
-## Members
+<details>
+<summary> <h2>Pubblications</h3> </summary>
+
+### Internal collaborators
 **Prof. Andrea Giachero - Associate Professor - Coordinator**  
 *University of Milano-Bicocca, Milano, Italy*  
 *INFN Unit of Milano-Bicocca, Milano, Italy*  
@@ -136,6 +131,6 @@ Once our objectives are set, we design qubits using <a href="https://qiskit.org/
 *CERN IT innovation*  
 [michele.grossi at cern.ch](mailto:michele.grossi@cern.ch)
 
-
+</details>
 
                                                                                                                                               
