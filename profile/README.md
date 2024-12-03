@@ -55,7 +55,6 @@ QISMIB initiative is supported by
 <details>
 <summary> <h2>Design and Simulation of qubits</h3> </summary>
 
-## Design and Simulation of qubits
 <p align="justify"> One of the main problems that the quantum research community is facing at the moment is "how do we actually build an error resistant, multi-purpose quantum computer?". One way to do that is using superconducting qubits. 
 Our group is working on superconducting qubit design for multiple applications: quantum sensors, quantum computers and other devices. The main challenges will be to improve current designs and find new ones in order to build better qubits for all applications. 
 The qubit design process goes through different steps: ideation and parameter definition, design, electromagnetic simulation and quantum parameters extraction.
