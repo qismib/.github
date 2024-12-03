@@ -20,26 +20,40 @@ QISMIB initiative is supported by
 * National Quantum Science and Technology Institute (NQSTI): [www.nqsti.it](https://www.nqsti.it)
 * National Research Centre for High Performance Computing, Big Data and Quantum Computing (ISCS): [www.supercomputing-icsc.it](https://www.supercomputing-icsc.it)
 
+<details>
+<summary> <h2>Quantum Simulations</h3> </summary>
 
-
-<br />
-
-## Quantum Simulations
 <p align="justify"> The field of Quantum Simulations is one of the few where it's clear that it will be possible to reach a useful quantum advantage. The main idea is that to simulate a quantum system you have to use another quantum system and any classical simulation is nothing more than an approximation. Moreover, having a quantum system in a quantum circuit form allows to straightforwardly analyze the effect of modifications of the system itself. The applications of Quantum Simlations vary in a large range of areas: from the study of <a href="https://pubmed.ncbi.nlm.nih.gov/34736057/">medical problems</a> to the simulation of <a href="https://arxiv.org/abs/1503.02312">Lattice Gauge Theories</a>, from researches in material science to drug discovery. Most of these works are conducted, for now, just from a theoretical point of view since they need computational resources not yet available, but different algorithms exist that can already be tested on existing devices: for example the Variational Quantum Eigensolver (<a href="https://arxiv.org/abs/2111.05176">VQE</a>) allows to simulate molecular systems in a compuational efficient way (something not possible with classical simulators). Research on this topic also focuses on near-term shrewdness to make the most of these algorithms even with Noisy intermediate-scale quantum devices: it is possible, for example, to reduce the number of needed qubits by exploiting symmetries in the system (<a href="https://arxiv.org/abs/1701.08213">tapering</a>).
 
 </p>
 
-## Quantum Machine Learning
+</details>
+
+---
+<details>
+<summary> <h2>Quantum Machine Learning</h3> </summary>
+
 <p align="justify"> Quantum Machine Learning (QML) is a field that combines the principles of quantum mechanics and machine learning to create new algorithms and models that can solve problems in a more efficient and powerful way than classical methods. In QML, quantum processors are used as a computational resource to perform tasks such as feature extraction, dimensionality reduction, and supervided/unsupervides learning. This is achieved by encoding classical data into quantum states and applying quantum operations to manipulate and process the data. One example of a QML algorithm is the Quantum Support Vector Machine (<a href="https://arxiv.org/pdf/1307.0471.pdf">QSVM</a>), which uses quantum states to represent data points and quantum gates to perform linear algebra operations. This algorithm has been shown to have exceptional speedup over its classical counterpart for certain datasets. Another <a href="https://arxiv.org/pdf/1307.0471.pdf">version</a> of QSVM, suited for noisy intermediate-scale quantum devices, explores quantum data encoding in exponentially large Hilbert spaces to achieve higher accuracies than classical benchmark models. Another example is Quantum Principal Component Analysis (<a href="https://www.nature.com/articles/nphys3029">QPCA</a>), which uses quantum algorithms to extract the principal components of a dataset in exponentially fewer operations than the classical method. Other examples involve Quantum Key Means Clustering and Quantum Neural Networks. QML is a young and rapidly growing field, with many open problems and opportunities for research, potentially driving data analysis in many fields such as physics, chemistry, finance and cryptography. Our activities on QML focus on the use of the <a href="https://qiskit.org/">Qiskit</a> package, developed by IBM, and the <a href="https://quantum-computing.ibm.com/?needs_refill=true">IBM Quantum</a> cloud access to real state-of-the-art Quantum Computers for testing our algorithms.
 
 
 </p>
 
+</details>
 
-## Quantum Key Distribution
+---
+
+<details>
+<summary> <h2>Quantum Key Distribution</h3> </summary>
+
 <p align="justify"> Quantum key distribution (QKD) is a method for secure communication that uses the principles of quantum mechanics to establish a secret key between two parties. This key can then be used to encrypt and decrypt messages, ensuring that only the intended recipients can read them. The BB84 and E91 protocols are well-established examples of QKD protocols that have been proposed and implemented, while the Continuous-variable (CV-QKD) and Measurement-Device-Independent (CV-MDI) protocols are relatively newer but promising candidates that offer immunity to side-channel attacks. The security and performance of these protocols can be evaluated by analyzing the different types of attacks that can be performed by an eavesdropper. To further enhance the evaluation, numerical simulations can be conducted, taking into account different scenarios and noise models. Additionally, exploring novel techniques for error correction and the use of novel quantum states can be considered as potential avenues for future research.
 </p>
 
+</details>
+
+---
+
+<details>
+<summary> <h2>Design and Simulation of qubits</h3> </summary>
 
 ## Design and Simulation of qubits
 <p align="justify"> One of the main problems that the quantum research community is facing at the moment is "how do we actually build an error resistant, multi-purpose quantum computer?". One way to do that is using superconducting qubits. 
@@ -48,7 +62,9 @@ The qubit design process goes through different steps: ideation and parameter de
 The first phase can be faced by simulating quantum systems using libraries such as <a href="https://qutip.org/">Qutip</a> and <a href="https://scqubits.readthedocs.io/en/latest/">Scqubits</a> . These libraries offer a simple framework to simulate numerically qubit and other quantum systems. In this way we can define our goals for the final system to be designed. 
 Once our objectives are set, we design qubits using <a href="https://qiskit.org/metal/">Qiskit-Metal</a> (IBM) and the Qubit Simulation Module (QSM, developed at NIST). To evaluate the qubit parameters from the design we use different simulations: the Energy Participation Ratio (<a href="https://www.nature.com/articles/s41534-021-00461-8">EPR</a>) and the Lumped Oscillator Model (<a href="https://arxiv.org/abs/2103.10344">LOM</a>). Both these analyses exploits ANSYS (HFSS and Q3D) to perform electromagnetic simulations. The results of the EM software are then used to quantize the system and extract all the interesting parameters. The design will be then modified until these parameters match the goals we set. With this workflow we tune each device to better suit its specific application. </p>
 
-<br />
+</details>
+
+---
 
 <details>
 <summary> <h2>Pubblications</h3> </summary>
