@@ -65,7 +65,7 @@ Once our objectives are set, we design qubits using <a href="https://qiskit.org/
 * "**_Sequence of penalties method to study excited states using VQE_**",  
   R. Carobene, S. Barison, A. Giachero,  <a href="https://doi.org/10.1088/2058-9565/acd1a9"> Quantum Sci. Technol. 8 (2023) 035014, </a>, <a href="https://arxiv.org/abs/2304.05262"> `2304.05262 [quant-ph]`  </a>
 </details>
------
+---
 <details>
 <summary> <h2>Members</h3> </summary>
 
