@@ -52,7 +52,7 @@ Once our objectives are set, we design qubits using <a href="https://qiskit.org/
 
 <details>
 
-<summary> <p style="font-size:40px; display:inline"> Pubblications</p>  </font> </summary>
+<summary> <p style="font-size:40px; display:inline"> Pubblications</p> </summary>
 
 ### You can add a header
 
