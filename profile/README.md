@@ -54,22 +54,6 @@ Once our objectives are set, we design qubits using <a href="https://qiskit.org/
 
 <summary> <h2>This is heading 1</h3> </summary>
 
-### You can add a header
-
-You can add text within a collapsed section. 
-
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
-```
-
-</details>
-
-
-## Pubblications
-
-
 * "**_Local fermion-to-qudit mappings_**",  
   R. Carobene, S. Barison, A. Giachero, and J. Nys, _in preparation_
 
@@ -81,6 +65,13 @@ You can add an image or a code block, too.
 
 * "**_Sequence of penalties method to study excited states using VQE_**",  
   R. Carobene, S. Barison, A. Giachero,  <a href="https://doi.org/10.1088/2058-9565/acd1a9"> Quantum Sci. Technol. 8 (2023) 035014, </a>, <a href="https://arxiv.org/abs/2304.05262"> `2304.05262 [quant-ph]`  </a>
+</details>
+
+
+## Pubblications
+
+
+
 
 
 <br />
