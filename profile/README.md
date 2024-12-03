@@ -20,6 +20,8 @@ QISMIB initiative is supported by
 * National Quantum Science and Technology Institute (NQSTI): [www.nqsti.it](https://www.nqsti.it)
 * National Research Centre for High Performance Computing, Big Data and Quantum Computing (ISCS): [www.supercomputing-icsc.it](https://www.supercomputing-icsc.it)
 
+---
+
 <details>
 <summary> <h2>Quantum Simulations</h3> </summary>
 
