@@ -67,7 +67,7 @@ Once our objectives are set, we design qubits using <a href="https://qiskit.org/
 </details>
 
 <details>
-<summary> <h2>Pubblications</h3> </summary>
+<summary> <h2>Members</h3> </summary>
 
 ### Internal collaborators
 **Prof. Andrea Giachero - Associate Professor - Coordinator**  
